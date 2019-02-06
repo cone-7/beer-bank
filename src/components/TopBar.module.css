@@ -1,0 +1,41 @@
+.topbar{
+    background-color: orange;
+    height: 190px;
+    color: white;
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+}
+
+.links{
+    font-size: 15px;
+    display: block;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.links span{
+    cursor: pointer;
+    margin-right: 15px;
+}
+
+.containerTitle{
+    font-size: 25px;
+    display: block;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.titleDescription{
+    font-size: 15px;
+}
+
+.search{
+    text-align: center;
+    margin-top: 25px;
+}
+
+.search input{
+    width: 20%;
+    height: 30px;
+}
